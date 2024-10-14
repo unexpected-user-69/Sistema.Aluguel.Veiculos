@@ -1,0 +1,22 @@
+
+--- Novo Cadastro ---
+Carros
+[12, 123, 12, 12, 12]
+Motos
+[34, 34, 34, 34, 34]
+Clientes
+[56, 56, 56]
+Contratos
+[78, 78, 78, 78,78]
+
+--- Alocacao_Veiculos ---
+Carros
+Motos
+Clientes
+Contratos
+
+--- Alocacao_Veiculos ---
+Carros
+Motos
+Clientes
+Contratos
